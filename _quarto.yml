@@ -8,11 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: translation.qmd
-        text: Translation
       - href: research.qmd
         text: Research
-
+        
 format:
   html:
     theme: litera

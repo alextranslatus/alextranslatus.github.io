@@ -1,6 +1,7 @@
 ---
 title: "Alex Sheridan"
 image: mypic.JPG
+resources: CV_anglais.pdf
 about:
   template: jolla
   image-shape: round
@@ -9,7 +10,7 @@ about:
     - text: Email
       icon: envelope
       href: mailto:alexsheridan.pro@outlook.fr
-    - text: Resume
+    - text: Resume in English
       icon: file-text
       href: CV_anglais.pdf
 ---

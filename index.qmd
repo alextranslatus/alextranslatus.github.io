@@ -1,5 +1,10 @@
 ---
-title: "alextranslatus.github.io"
+title: "Alex Sheridan"
+image: mypic.JPG
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
 ---
 
 This is a Quarto website.

@@ -3,11 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: ""
+  title: "Alex Sheridan"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: translation.qmd
+        text: Translation
       - href: research.qmd
         text: Research
 

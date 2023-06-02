@@ -1,7 +1,9 @@
 ---
 title: "Alex Sheridan"
 image: mypic.JPG
-resources: CV_anglais.pdf
+resources: 
+  - "CV_anglais.pdf"
+  - "CV_francais.pdf"
 about:
   template: jolla
   image-shape: round
@@ -13,4 +15,7 @@ about:
     - text: Resume in English
       icon: file-text
       href: CV_anglais.pdf
+    - text: Resume in French
+      icon: file-text
+      href: CV_francais.pdf
 ---

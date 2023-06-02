@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "alextranslatus.github.io"
+  title: "Professional translation"
   navbar:
     left:
       - href: index.qmd

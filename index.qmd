@@ -5,12 +5,15 @@ about:
   template: jolla
   image-shape: round
   image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:alexsheridan.pro@outlook.fr
+    - text: Resume in English
+      icon: file-text
+      href: CV_anglais.pdf
+    - text: Resume in French
+      icon: file-text
+      href: CV_francais.pdf
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

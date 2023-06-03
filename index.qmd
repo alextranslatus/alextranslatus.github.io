@@ -5,6 +5,7 @@ resources:
   - "CV_anglais.pdf"
   - "CV_francais.pdf"
 about:
+  id: hero-heading
   template: jolla
   image-shape: round
   image-width: 15em

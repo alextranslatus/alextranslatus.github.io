@@ -19,3 +19,10 @@ about:
       icon: file-text
       href: CV_francais.pdf
 ---
+
+:::{#hero-heading}
+
+Research assistant at INED
+
+:::
+

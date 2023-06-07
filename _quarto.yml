@@ -11,6 +11,8 @@ website:
         
 format:
   html:
+    mainfont: sans-serif
+    fontsize: 1em
     theme: litera
     css: styles.css
     toc: true

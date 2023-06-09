@@ -12,7 +12,7 @@ about:
   links: 
     - text: Email
       icon: envelope
-      href: mailto:alexsheridan.pro@outlook.fr
+      href: mailto:alexandra.sheridan@ined.fr
     - text: Resume in English
       icon: file-text
       href: CV_anglais.pdf

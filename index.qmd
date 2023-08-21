@@ -22,5 +22,5 @@ about:
 ---
 
 ::: {#hero-heading}
-Research assistant at INED
+Research assistant at INED (Institut national d'études démographiques)
 :::

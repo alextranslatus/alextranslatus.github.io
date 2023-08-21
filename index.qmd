@@ -1,6 +1,6 @@
 ---
 title: "Alex Sheridan"
-image: mypic.JPG
+image: mypic.jpg
 resources: 
   - "CV_anglais.pdf"
   - "CV_francais.pdf"

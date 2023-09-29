@@ -19,6 +19,8 @@ about:
     - text: Resume in French
       icon: file-text
       href: CV_francais.pdf
+    - icon: github
+      href: https://github.com/alextranslatus
 ---
 
 ::: {#hero-heading}

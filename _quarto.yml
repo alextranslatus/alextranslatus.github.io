@@ -4,10 +4,6 @@ project:
 
 website:
   title: "Alex Sheridan"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
         
 format:
   html:

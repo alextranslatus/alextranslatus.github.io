@@ -13,6 +13,9 @@ about:
     - text: Email
       icon: envelope
       href: mailto:alexandra.sheridan@ined.fr
+    - text: GitHub
+      icon: github
+      href: https://alextranslatus.github.io/
     - text: Resume in English
       icon: file-text
       href: CV_anglais.pdf

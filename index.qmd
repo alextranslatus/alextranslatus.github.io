@@ -2,8 +2,7 @@
 title: "Alex Sheridan"
 image: mypic.jpg
 resources: 
-  - "CV_anglais.pdf"
-  - "CV_francais.pdf"
+  - "Alex_CV.pdf"
 about:
   id: hero-heading
   template: jolla
@@ -12,18 +11,13 @@ about:
   links: 
     - text: Email
       icon: envelope
-      href: mailto:alexandra.sheridan@ined.fr
+      href: mailto:alexsheridan@hotmail.fr
     - text: GitHub
       icon: github
-      href: https://alextranslatus.github.io/
-    - text: Resume in English
-      icon: file-text
-      href: CV_anglais.pdf
-    - text: Resume in French
-      icon: file-text
-      href: CV_francais.pdf
-    - icon: github
       href: https://github.com/alextranslatus
+    - text: Resume
+      icon: file-text
+      href: Alex_CV.pdf
 ---
 
 ::: {#hero-heading}

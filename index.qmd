@@ -15,7 +15,7 @@ about:
     - text: GitHub
       icon: github
       href: https://github.com/alextranslatus
-    - text: Resume
+    - text: CV
       icon: file-text
       href: Alex_CV.pdf
 ---

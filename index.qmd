@@ -15,11 +15,45 @@ about:
     - text: GitHub
       icon: github
       href: https://github.com/alextranslatus
+    - text: Twitter
+      icon: twitter
+      href: https://twitter.com/AlexBSheridan
     - text: CV
       icon: file-text
       href: Alex_CV.pdf
 ---
 
 ::: {#hero-heading}
-Research assistant at INED (Institut national d'études démographiques)
+I am currently a research assistant at Ined (Institut national d'études démographiques), where I do quantitative work on inequalities in childhood. I have a background in Economics but more and more of my work falls into Sociology.
+
+I've participated in cross-country projects investigating possible factors that influence disparities in child development by parental socioeconomic status, such as tracking at school, family structure, parenting styles... I'm currently on a project that explores gender sociolisation in early childhood.
+
+Most often, I adopt a longitudinal approach with survey data. Datasets I'm most familiar with include Étude Longitudinale Française depuis l'Enfance (Elfe), Millennium Cohort Study (MCS) or Direction de l'évaluation, de la prospective et de la performance (DEPP), European Union Statistics on Income and Living Conditions (EU-SILC), Programme for International Student Assessment (PISA).
+
+Paris School of Economics | Master's Analysis and Policy in Economics | 2020
 :::
+
+## Publications
+
+#### 2024
+
+Solaz A., Sheridan A., Panico L., Dräger J., Schneider T., Olczyk M., Washbrook E., Perinetti Casoni V., Kwon S., & Waldfogel J. (In print). “Family trajectories, maternal education and achievement gaps: a comparative perspective. Findings on England, France, Germany and the US." *Population and Development Review*.
+
+Berger, L., Panico L., Sheridan A., Thévenon O. (2024). "Parental emotional support and adolescent well-being: A cross-national examination of socio-economic and gender gaps based on PISA 2018 surveys", *OECD Papers on Well-being and Inequalities*, No. 20, OECD Publishing, Paris.  <https://doi.org/10.1787/2b7a2ac6-en>
+
+#### 2023
+
+Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., Perinetti Casoni, V, Kwon S. J., & Waldfogel, J. (2023). “The relevance of tracking and social school composition for growing achievement gaps by parental education in lower secondary school: a longitudinal analysis in France, Germany, the United States, and England." *European Sociological Review*, jcad076. <https://doi.org/10.1093/esr/jcad076>
+
+
+## Presentations
+
+#### 2024
+
+European Population Conference, Edinburgh, June 2024. Poster. “Comparative work on toilet training in France and in the UK: gender and social variations."
+
+#### 2023
+
+Policy Evaluation and Research Unit lunch seminar, Manchester, November 2023. Oral presentation. “Comparative work on toilet training in France and in the UK: gender and social variations."
+
+Children of the noughties: a conference to celebrate 21 years of the Millennium Cohort Study, London, June 2023. Oral presentation. “Parental care during the first year of life: gender and social variations in practices and tastes."

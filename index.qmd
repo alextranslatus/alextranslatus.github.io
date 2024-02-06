@@ -18,6 +18,9 @@ about:
     - text: Twitter
       icon: twitter
       href: https://twitter.com/AlexBSheridan
+    - text: Google Scholar
+      icon: academia
+      href: https://scholar.google.com/citations?user=9yPrLBIAAAAJ&hl=en&oi=sra
     - text: CV
       icon: file-text
       href: Alex_CV.pdf
@@ -26,7 +29,7 @@ about:
 ::: {#hero-heading}
 I am currently a research assistant at Ined (Institut national d'études démographiques), where I do quantitative work on inequalities in childhood. I have a background in Economics but more and more of my work falls into Sociology.
 
-I've participated in cross-country projects investigating possible factors that influence disparities in child development by parental socioeconomic status, such as tracking at school, family structure, parenting styles... I'm currently on a project that explores gender sociolisation in early childhood.
+I've participated in cross-country projects investigating possible factors that influence disparities in child development by parental socioeconomic status, such as tracking at school, family structure, parenting styles... I'm currently on a project that explores gender socialisation in early childhood.
 
 Most often, I adopt a longitudinal approach with survey data. Datasets I'm most familiar with include Étude Longitudinale Française depuis l'Enfance (Elfe), Millennium Cohort Study (MCS) or Direction de l'évaluation, de la prospective et de la performance (DEPP), European Union Statistics on Income and Living Conditions (EU-SILC), Programme for International Student Assessment (PISA).
 

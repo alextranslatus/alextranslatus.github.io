@@ -11,7 +11,7 @@ about:
   links: 
     - text: Email
       icon: envelope
-      href: mailto:alexsheridan@hotmail.fr
+      href: mailto:alexandra.sheridan@ined.fr
     - text: GitHub
       icon: github
       href: https://github.com/alextranslatus

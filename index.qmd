@@ -9,9 +9,6 @@ about:
   image-shape: round
   image-width: 15em
   links: 
-    - text: Email
-      icon: envelope
-      href: mailto:alexandra.sheridan@ined.fr
     - text: GitHub
       icon: github
       href: https://github.com/alextranslatus

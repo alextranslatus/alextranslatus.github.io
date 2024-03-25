@@ -30,7 +30,7 @@ I've participated in cross-country projects investigating possible factors that 
 
 Most often, I adopt a longitudinal approach with survey data. Datasets I'm most familiar with include Étude Longitudinale Française depuis l'Enfance (Elfe), Millennium Cohort Study (MCS) or Direction de l'évaluation, de la prospective et de la performance (DEPP), European Union Statistics on Income and Living Conditions (EU-SILC), Programme for International Student Assessment (PISA).
 
-Paris School of Economics | Master's Analysis and Policy in Economics | 2020
+Paris School of Economics \| Master's Analysis and Policy in Economics \| 2020
 :::
 
 ## Publications
@@ -39,18 +39,17 @@ Paris School of Economics | Master's Analysis and Policy in Economics | 2020
 
 Solaz A., Panico L., Sheridan A., Dräger J., Schneider T., Olczyk M., Washbrook E., Perinetti Casoni V., Kwon S., & Waldfogel J. (In print). “Family trajectories, maternal education and achievement gaps: a comparative perspective. Findings on England, France, Germany and the US." *Population and Development Review*.
 
-Berger, L., Panico L., Sheridan A., Thévenon O. (2024). "Parental emotional support and adolescent well-being: A cross-national examination of socio-economic and gender gaps based on PISA 2018 surveys", *OECD Papers on Well-being and Inequalities*, No. 20, OECD Publishing, Paris.  <https://doi.org/10.1787/2b7a2ac6-en>
+Berger, L., Panico L., Sheridan A., Thévenon O. (2024). "Parental emotional support and adolescent well-being: A cross-national examination of socio-economic and gender gaps based on PISA 2018 surveys", *OECD Papers on Well-being and Inequalities*, No. 20, OECD Publishing, Paris. <https://doi.org/10.1787/2b7a2ac6-en>
 
 #### 2023
 
 Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., Perinetti Casoni, V, Kwon S. J., & Waldfogel, J. (2023). “The relevance of tracking and social school composition for growing achievement gaps by parental education in lower secondary school: a longitudinal analysis in France, Germany, the United States, and England." *European Sociological Review*, jcad076. <https://doi.org/10.1093/esr/jcad076>
 
-
 ## Presentations
 
 #### 2024
 
-Early Career Scholars’ Master Class on Families and Child Development and Well-being,}} Edinburgh, June 2024. Oral presentation. “Sex Differentials in Early Childhood Hygiene: A Comparative Study of France and of the UK."
+Early Career Scholars’ Master Class on Families and Child Development and Well-being, Edinburgh, June 2024. Oral presentation. “Sex Differentials in Early Childhood Hygiene: A Comparative Study of France and of the UK."
 
 European Population Conference, Edinburgh, June 2024. Poster. “Sex Differentials in Early Childhood Hygiene: A Comparative Study of France and of the UK."
 
@@ -61,3 +60,6 @@ Séminaire Jeunes Chercheurs, Ined, March 2024. Oral presentation. “Sex Differ
 Policy Evaluation and Research Unit lunch seminar, Manchester, November 2023. Oral presentation. “Comparative work on toilet training in France and in the UK: gender and social variations."
 
 Children of the noughties: a conference to celebrate 21 years of the Millennium Cohort Study, London, June 2023. Oral presentation. “Parental care during the first year of life: gender and social variations in practices and tastes."
+
+
+

@@ -2,7 +2,7 @@
 title: "Alex Sheridan"
 image: mypic.jpg
 resources: 
-  - "Alex_CV.pdf"
+  - "cv.pdf"
 about:
   id: hero-heading
   template: jolla
@@ -12,38 +12,40 @@ about:
     - text: GitHub
       icon: github
       href: https://github.com/alextranslatus
-    - text: Twitter
-      icon: twitter
-      href: https://twitter.com/AlexBSheridan
+    - text: LinkedIn
+      icon: linkedin
+      href: https://fr.linkedin.com/in/alex-sheridan-22533a333
     - text: Google Scholar
-      icon: academia
+      icon: book
       href: https://scholar.google.com/citations?user=9yPrLBIAAAAJ&hl=en&oi=sra
     - text: CV
       icon: file-text
-      href: Alex_CV.pdf
+      href: cv.pdf
 ---
 
 ::: {#hero-heading}
-I am currently a research assistant at Ined (Institut national d'études démographiques), where I do quantitative work on inequalities in childhood. I have a background in Economics but more and more of my work falls into Sociology.
+I am currently a student of the European Doctoral School of Demography (EDSD), hosted by Institut National d'Etudes Démographiques (INED). I'm sponsored by the Max Planck Institute for Demographic Research
 
-I've participated in cross-country projects investigating possible factors that influence disparities in child development by parental socioeconomic status, such as tracking at school, family structure, parenting styles... I'm currently on a project that explores gender socialisation in early childhood.
+I'm mainly interested in inequalities in childhood. I've participated in cross-country projects investigating possible factors that influence disparities in child development, including, but not limited to: parental socioeconomic status, tracking at school, family structure, parenting styles, gender.
 
 Most often, I adopt a longitudinal approach with survey data. Datasets I'm most familiar with include Étude Longitudinale Française depuis l'Enfance (Elfe), Millennium Cohort Study (MCS) or Direction de l'évaluation, de la prospective et de la performance (DEPP), European Union Statistics on Income and Living Conditions (EU-SILC), Programme for International Student Assessment (PISA).
-
-Paris School of Economics \| Master's Analysis and Policy in Economics \| 2020
 :::
 
 ## Publications
 
+#### Just accepted
+
+Dräger, J., Washbrook, E., Schneider, T., Akabayashi, H., Keizer, R., Solaz, A., Waldfogel, J., de la Rie, S., Kameyama, Y., Kwon, S. J., Nozaki, K., Perinetti Casoni, V., Sano, S., Sheridan A. & Shikishima, C. (In print). “Cross-national differences in socioeconomic achievement inequality in early primary school: The role of parental education and income in six countries." *AERA Open.* Available as discussion paper on SocArXiv, 18 January 2023. <https://doi.org/10.31235/osf.io/hzpwm>
+
 #### 2024
 
-Solaz A., Panico L., Sheridan A., Dräger J., Schneider T., Olczyk M., Washbrook E., Perinetti Casoni V., Kwon S., & Waldfogel J. (In print). "Family trajectories, maternal education and achievement gaps: a comparative perspective. Findings on England, France, Germany and the US." *Population and Development Review*.
+Solaz A., Panico L., Sheridan A., Dräger J., Schneider T., Olczyk M., Washbrook E., Perinetti Casoni V., Kwon S., & Waldfogel J. (2024). "Does Family Structure Account for Child Achievement Gaps by Parental Education? Findings for England, France, Germany and the United States." *Population and Development Review*. <https://doi.org/10.1111/padr.12623>
 
 Berger, L., Panico L., Sheridan A., Thévenon O. (2024). "Parental emotional support and adolescent well-being: A cross-national examination of socio-economic and gender gaps based on PISA 2018 surveys", *OECD Papers on Well-being and Inequalities*, No. 20, OECD Publishing, Paris. <https://doi.org/10.1787/2b7a2ac6-en>
 
 #### 2023
 
-Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., Perinetti Casoni, V, Kwon S. J., & Waldfogel, J. (2023). "The relevance of tracking and social school composition for growing achievement gaps by parental education in lower secondary school: a longitudinal analysis in France, Germany, the United States, and England." *European Sociological Review*, jcad076. <https://doi.org/10.1093/esr/jcad076>
+Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., Perinetti Casoni, V, Kwon S. J., & Waldfogel, J. (2023). "The relevance of tracking and social school composition for growing achievement gaps by parental education in lower secondary school: a longitudinal analysis in France, Germany, the United States, and England." *European Sociological Review.* <https://doi.org/10.1093/esr/jcad076>
 
 ## Presentations
 

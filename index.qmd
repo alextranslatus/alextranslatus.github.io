@@ -63,6 +63,18 @@ Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., 
 
 **Children of the noughties: a conference to celebrate 21 years of the Millennium Cohort Study**, London, June 2023. Oral presentation. "Parental care during the first year of life: gender and social variations in practices and tastes."
 
+## The skills that help us do and convey our research
+
+::::: grid
+::: g-col-8
+I'm always excited to talk about the skills that help us with our research, such as public speaking, writing, coding, and self-reflection. We develop these as we accumulate experience, but I'm sure that talking and reading about them can help too.
+:::
+::: g-col-4
+![](q&a_session.png){width="100%"}
+:::
+:::::
+
+
 ## Books and research
 
 People who know me know books are one of the loves of my life. And they've found their way into my research.
@@ -81,7 +93,7 @@ Here are some of my favourites.
 
 When I tell people I've graduated in economics, they tend to ask me about financial markets, or about taxes. I was also puzzled as to where economics started and ended, especially given my interest in family and childhood. This book is a page-turner in itself, but on top of that, it finally cleared up for me how the prism of economics could further our understanding of parenting and childhood inequalities.
 
-I love showing my (patient) loved ones the introduction of this book: "See, this is what I do!!"
+I love showing my (patient) loved ones the introduction of this book: "See, this is what I do!"
 :::
 :::::
 

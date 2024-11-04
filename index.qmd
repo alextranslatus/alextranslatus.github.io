@@ -66,11 +66,11 @@ Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., 
 ## The skills that help us do and convey our research
 
 ::::: grid
-::: g-col-8
-I'm always excited to talk about the skills that help us with our research, such as public speaking, writing, coding, and self-reflection. We develop these as we accumulate experience, but I'm sure that talking and reading about them can help too.
-:::
-::: g-col-4
+::: g-col-6
 ![](q&a_session.png){width="100%"}
+:::
+::: g-col-6
+I'm always excited to talk about the skills that help us with our research, such as public speaking, writing, coding, and self-reflection. We develop these as we accumulate experience, but I'm sure that talking and reading about them can help too. Reach out to me if you share this interest!
 :::
 :::::
 

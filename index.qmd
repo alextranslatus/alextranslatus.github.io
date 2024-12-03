@@ -33,11 +33,9 @@ Most often, I adopt a longitudinal approach with survey data. Datasets I'm most 
 
 ## Publications
 
-#### Just in!
-
-Dräger, J., Washbrook, E., Schneider, T., Akabayashi, H., Keizer, R., Solaz, A., Waldfogel, J., de la Rie, S., Kameyama, Y., Kwon, S. J., Nozaki, K., Perinetti Casoni, V., Sano, S., Sheridan A. & Shikishima, C. (In print). “Cross-national differences in socioeconomic achievement inequality in early primary school: The role of parental education and income in six countries." *AERA Open.* Available as discussion paper on SocArXiv, 18 January 2023. <https://doi.org/10.31235/osf.io/hzpwm>
-
 #### 2024
+
+Dräger, J., Washbrook, E., Schneider, T., Akabayashi, H., Keizer, R., Solaz, A., Waldfogel, J., de la Rie, S., Kameyama, Y., Kwon, S. J., Nozaki, K., Perinetti Casoni, V., Sano, S., Sheridan A. & Shikishima, C. (2024). “Cross-national differences in socioeconomic achievement inequality in early primary school: The role of parental education and income in six countries." *AERA Open*. <https://doi.org/10.1177/23328584241299794>
 
 Solaz A., Panico L., Sheridan A., Dräger J., Schneider T., Olczyk M., Washbrook E., Perinetti Casoni V., Kwon S., & Waldfogel J. (2024). "Does Family Structure Account for Child Achievement Gaps by Parental Education? Findings for England, France, Germany and the United States." *Population and Development Review*. <https://doi.org/10.1111/padr.12623>
 
@@ -45,9 +43,13 @@ Berger, L., Panico L., Sheridan A., Thévenon O. (2024). "Parental emotional sup
 
 #### 2023
 
-Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., Perinetti Casoni, V, Kwon S. J., & Waldfogel, J. (2023). "The relevance of tracking and social school composition for growing achievement gaps by parental education in lower secondary school: a longitudinal analysis in France, Germany, the United States, and England." *European Sociological Review.* <https://doi.org/10.1093/esr/jcad076>
+Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., Perinetti Casoni, V, Kwon S. J., & Waldfogel, J. (2023). "The relevance of tracking and social school composition for growing achievement gaps by parental education in lower secondary school: a longitudinal analysis in France, Germany, the United States, and England." *European Sociological Review*. <https://doi.org/10.1093/esr/jcad076>
 
 ## Presentations
+
+#### 2025
+
+**16th Conference of Young Demographers**, Prague, February 2025. Poster. "Do Parents Parent Boys and Girls Differently? On the Way to Understanding Gender Gaps in Child Development in the UK, the US, France, and Germany."
 
 #### 2024
 
@@ -318,6 +320,16 @@ I love book recommendations, let me know what your favourites are.
 ::: g-col-4
 <a href="https://www.parigramme.com/livre-metro-insolite-49.htm" target="_blank">
 <img src="metro.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
+</a>
+:::
+::: g-col-4
+<a href="https://www.panmacmillan.com/authors/paulina-rowinska/mapmatics/9781035007042" target="_blank">
+<img src="map.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
+</a>
+:::
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/56314/thinking-fast-and-slow-by-kahneman-daniel/9780141033570" target="_blank">
+<img src="think.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
 </a>
 :::
 :::

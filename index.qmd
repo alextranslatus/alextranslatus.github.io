@@ -24,7 +24,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am currently a student of the [European Doctoral School of Demography](https://eaps.nl/edsd/About-EDSD){target="_blank"} (EDSD), hosted by  [Institut National d'Études Démographiques](https://www.ined.fr/en/){target="_blank"} (INED). I'm sponsored by the [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/en/about_us_6113/the_max_planck_institute_for_demographic_research_6653/){target="_blank"}.
+I am currently a student of the [European Doctoral School of Demography](https://eaps.nl/edsd/About-EDSD){target="_blank"} (EDSD), hosted by [Institut National d'Études Démographiques](https://www.ined.fr/en/){target="_blank"} (INED). I'm sponsored by the [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/en/about_us_6113/the_max_planck_institute_for_demographic_research_6653/){target="_blank"}.
 
 I'm mainly interested in inequalities in childhood. I've participated in cross-country projects investigating possible factors that influence disparities in child development, including, but not limited to: parental socioeconomic status, tracking at school, family structure, parenting styles, gender.
 
@@ -49,7 +49,7 @@ Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., 
 
 #### 2025
 
-**Population Association of America 2025 Annual Meeting**, Washington DC, April 2025. Poster. "Covid-19 and Health-Related Behaviours: Better to be Rich in a Poor Neighbourhood or Poor in a Rich Neighbourhood?"
+**Population Association of America 2025 Annual Meeting**, Washington DC, April 2025. Poster. "Covid-19 and Health-Related Behaviours: How Did Contextual and Individual Experiences of Deprivation Affect Health-Related Behaviours During the Covid-19 Pandemic in England?
 
 **16th Conference of Young Demographers**, Prague, February 2025. Poster. "Do Parents Parent Boys and Girls Differently? On the Way to Understanding Gender Gaps in Child Development in the UK, the US, France, and Germany."
 
@@ -73,11 +73,11 @@ Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., 
 ::: g-col-6
 ![](q&a_session.png){width="100%"}
 :::
+
 ::: g-col-6
 I'm always excited to talk about the skills that help us with our research, such as public speaking, writing, coding, and self-reflection. We develop these as we accumulate experience, but I'm sure that talking and reading about them can help too. Reach out to me if you share this interest.
 :::
 :::::
-
 
 ## Books and research
 
@@ -87,9 +87,7 @@ Here are some of my favourites.
 
 ::::: grid
 ::: g-col-4
-<a href="https://press.princeton.edu/books/hardcover/9780691171517/love-money-and-parenting?srsltid=AfmBOoq7l7_GTopSnGWAjMFESB1WXz7Ui-qxtPG6o1g4Fg7LE714JYSl" target="_blank">
-![](love.jpg){width="100%"}
-</a>
+<a href="https://press.princeton.edu/books/hardcover/9780691171517/love-money-and-parenting?srsltid=AfmBOoq7l7_GTopSnGWAjMFESB1WXz7Ui-qxtPG6o1g4Fg7LE714JYSl" target="_blank"> ![](love.jpg){width="100%"} </a>
 :::
 
 ::: g-col-8
@@ -105,9 +103,7 @@ I love showing my (patient) loved ones the introduction of this book: "See, this
 
 ::::: grid
 ::: g-col-4
-<a href="https://press.uchicago.edu/ucp/books/book/chicago/W/bo131341275.html" target="_blank">
-![](rq.jpg){width="100%"}
-</a>
+<a href="https://press.uchicago.edu/ucp/books/book/chicago/W/bo131341275.html" target="_blank"> ![](rq.jpg){width="100%"} </a>
 :::
 
 ::: g-col-8
@@ -121,9 +117,7 @@ Boy, I wish someone had pointed me to this book when I was trying to figure out 
 
 ::::: grid
 ::: g-col-4
-<a href="https://schimelwritingscience.wordpress.com/about/" target="_blank">
-![](writingscience.jpg){width="100%"}
-</a>
+<a href="https://schimelwritingscience.wordpress.com/about/" target="_blank"> ![](writingscience.jpg){width="100%"} </a>
 :::
 
 ::: g-col-8
@@ -137,9 +131,7 @@ Schimel's research "sits at the interface of ecosystem and microbial ecology". T
 
 ::::: grid
 ::: g-col-4
-<a href="https://www.apa.org/pubs/books/4441024" target="_blank">
-![](writeitup.jpg){width="100%"}
-</a>
+<a href="https://www.apa.org/pubs/books/4441024" target="_blank"> ![](writeitup.jpg){width="100%"} </a>
 :::
 
 ::: g-col-8
@@ -153,9 +145,7 @@ This book is very down to earth when giving tips on team work, picking journals,
 
 ::::: grid
 ::: g-col-4
-<a href="https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school?srsltid=AfmBOorRkaokZ50r2cFdKd9hHXmxChtkz66MErS3S6raYoFH1L33tDHC" target="_blank">
-![](hiddenc.jpg){width="100%"}
-</a>
+<a href="https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school?srsltid=AfmBOorRkaokZ50r2cFdKd9hHXmxChtkz66MErS3S6raYoFH1L33tDHC" target="_blank"> ![](hiddenc.jpg){width="100%"} </a>
 :::
 
 ::: g-col-8
@@ -173,165 +163,136 @@ I love book recommendations, let me know what your favourites are.
 
 <br>
 
-:::::::::::::::::::::::::: grid
+::::::::::::::::::::::::::::::::::: grid
 ::: g-col-4
-<a href="https://www.babelio.com/livres/Fabcaro-Zai-zai-zai-zai/719553" target="_blank">
-<img src="zai.jpg" alt="Image 1" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.babelio.com/livres/Fabcaro-Zai-zai-zai-zai/719553" target="_blank"> <img src="zai.jpg" alt="Image 1" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.simonandschuster.com/books/Solutions-and-Other-Problems/Allie-Brosh/9781982156954" target="_blank">
-<img src="solutions.jpg" alt="Image 2" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.simonandschuster.com/books/Solutions-and-Other-Problems/Allie-Brosh/9781982156954" target="_blank"> <img src="solutions.jpg" alt="Image 2" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguin.co.uk/books/313766/the-power-of-strangers-by-keohane-joe/9780241986424" target="_blank">
-<img src="power.jpg" alt="Image 3" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguin.co.uk/books/313766/the-power-of-strangers-by-keohane-joe/9780241986424" target="_blank"> <img src="power.jpg" alt="Image 3" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguinrandomhouse.com/books/311787/behave-by-robert-m-sapolsky/" target="_blank">
-<img src="behave.jpg" alt="Image 4" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguinrandomhouse.com/books/311787/behave-by-robert-m-sapolsky/" target="_blank"> <img src="behave.jpg" alt="Image 4" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguinrandomhouse.com/books/616914/an-immense-world-by-ed-yong/" target="_blank">
-<img src="world.jpg" alt="Image 5" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguinrandomhouse.com/books/616914/an-immense-world-by-ed-yong/" target="_blank"> <img src="world.jpg" alt="Image 5" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguinrandomhouse.com/books/239783/the-body-by-bill-bryson/" target="_blank">
-<img src="body.jpg" alt="Image 6" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguinrandomhouse.com/books/239783/the-body-by-bill-bryson/" target="_blank"> <img src="body.jpg" alt="Image 6" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://yalebooks.yale.edu/book/9780300170825/a-little-book-of-language/" target="_blank">
-<img src="language.jpg" alt="Image 7" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://yalebooks.yale.edu/book/9780300170825/a-little-book-of-language/" target="_blank"> <img src="language.jpg" alt="Image 7" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://allary-editions.fr/products/riad-sattouf-arabe-du-futur-1" target="_blank">
-<img src="arabe.jpg" alt="Image 8" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://allary-editions.fr/products/riad-sattouf-arabe-du-futur-1" target="_blank"> <img src="arabe.jpg" alt="Image 8" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguin.co.uk/books/183573/the-sense-of-style-by-pinker-steven/9780241957714" target="_blank">
-<img src="pinker.jpg" alt="Image 9" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguin.co.uk/books/183573/the-sense-of-style-by-pinker-steven/9780241957714" target="_blank"> <img src="pinker.jpg" alt="Image 9" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguinrandomhouse.com/books/95441/into-thin-air-by-jon-krakauer-new-afterword-by-the-author/" target="_blank">
-<img src="thinair.jpg" alt="Image 10" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguinrandomhouse.com/books/95441/into-thin-air-by-jon-krakauer-new-afterword-by-the-author/" target="_blank"> <img src="thinair.jpg" alt="Image 10" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguinrandomhouse.com/books/158400/the-god-of-small-things-by-arundhati-roy/" target="_blank">
-<img src="god.jpg" alt="Image 11" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguinrandomhouse.com/books/158400/the-god-of-small-things-by-arundhati-roy/" target="_blank"> <img src="god.jpg" alt="Image 11" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.nytimes.com/2022/10/30/books/review/claire-keegan-foster.html" target="_blank">
-<img src="foster.jpg" alt="Image 12" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.nytimes.com/2022/10/30/books/review/claire-keegan-foster.html" target="_blank"> <img src="foster.jpg" alt="Image 12" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.babelio.com/livres/Hosseini-Les-cerfs-volants-de-Kaboul/6303" target="_blank">
-<img src="kaboul.jpg" alt="Image 13" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.babelio.com/livres/Hosseini-Les-cerfs-volants-de-Kaboul/6303" target="_blank"> <img src="kaboul.jpg" alt="Image 13" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.loulubie.fr/livres/racines" target="_blank">
-<img src="lou.jpg" alt="Image 14" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.loulubie.fr/livres/racines" target="_blank"> <img src="lou.jpg" alt="Image 14" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://atlantic-books.co.uk/book/the-crossing/" target="_blank">
-<img src="crossing.jpg" alt="Image 15" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://atlantic-books.co.uk/book/the-crossing/" target="_blank"> <img src="crossing.jpg" alt="Image 15" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.elizabethstrout.com/books/oh-william" target="_blank">
-<img src="william.jpg" alt="Image 16" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.elizabethstrout.com/books/oh-william" target="_blank"> <img src="william.jpg" alt="Image 16" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.editions-delcourt.fr/bd/series/serie-un-ocean-d-amour/album-un-ocean-d-amour" target="_blank">
-<img src="ocean.jpg" alt="Image 17" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.editions-delcourt.fr/bd/series/serie-un-ocean-d-amour/album-un-ocean-d-amour" target="_blank"> <img src="ocean.jpg" alt="Image 17" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.babelio.com/livres/Zeniter-Lart-de-perdre/956484" target="_blank">
-<img src="art.jpg" alt="Image 18" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.babelio.com/livres/Zeniter-Lart-de-perdre/956484" target="_blank"> <img src="art.jpg" alt="Image 18" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguin.co.uk/books/455478/how-migration-really-works-by-haas-hein-de/9780241998779" target="_blank">
-<img src="migration.jpg" alt="Image 19" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguin.co.uk/books/455478/how-migration-really-works-by-haas-hein-de/9780241998779" target="_blank"> <img src="migration.jpg" alt="Image 19" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.alexbellos.com/language" target="_blank">
-<img src="puzzle.jpg" alt="Image 20" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.alexbellos.com/language" target="_blank"> <img src="puzzle.jpg" alt="Image 20" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.babelio.com/livres/Yoshimura-Le-Grand-Tremblement-de-terre-du-Kanto/172850" target="_blank">
-<img src="kanto.jpg" alt="Image 21" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.babelio.com/livres/Yoshimura-Le-Grand-Tremblement-de-terre-du-Kanto/172850" target="_blank"> <img src="kanto.jpg" alt="Image 21" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguinrandomhouse.com/books/577190/this-naked-mind-by-annie-grace/" target="_blank">
-<img src="mind.jpg" alt="Image 22" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguinrandomhouse.com/books/577190/this-naked-mind-by-annie-grace/" target="_blank"> <img src="mind.jpg" alt="Image 22" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://maypeter.com/the-blackhouse/" target="_blank">
-<img src="may.jpg" alt="Image 23" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://maypeter.com/the-blackhouse/" target="_blank"> <img src="may.jpg" alt="Image 23" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://thewhimsybookworm.blogspot.com/2022/06/book-review-beauty-of-all-my-days.html" target="_blank">
-<img src="bond.jpg" alt="Image 24" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://thewhimsybookworm.blogspot.com/2022/06/book-review-beauty-of-all-my-days.html" target="_blank"> <img src="bond.jpg" alt="Image 24" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.theguardian.com/books/2020/jul/31/shuggie-bain-by-douglas-stuart-review-a-rare-and-gritty-debut" target="_blank">
-<img src="shuggie.jpg" alt="Image 25" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.theguardian.com/books/2020/jul/31/shuggie-bain-by-douglas-stuart-review-a-rare-and-gritty-debut" target="_blank"> <img src="shuggie.jpg" alt="Image 25" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguinrandomhouse.com/books/598169/on-all-fronts-by-clarissa-ward/" target="_blank">
-<img src="front.jpg" alt="Image 26" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguinrandomhouse.com/books/598169/on-all-fronts-by-clarissa-ward/" target="_blank"> <img src="front.jpg" alt="Image 26" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguin.co.uk/books/455575/what-they-dont-teach-you-about-money-by-barrett-claer/9781529146332" target="_blank">
-<img src="money.jpg" alt="Image 27" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguin.co.uk/books/455575/what-they-dont-teach-you-about-money-by-barrett-claer/9781529146332" target="_blank"> <img src="money.jpg" alt="Image 27" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.britannica.com/topic/To-Kill-a-Mockingbird" target="_blank">
-<img src="kill.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.britannica.com/topic/To-Kill-a-Mockingbird" target="_blank"> <img src="kill.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://en.wikipedia.org/wiki/Terry_Jones%27_Medieval_Lives" target="_blank">
-<img src="medieval.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://en.wikipedia.org/wiki/Terry_Jones%27_Medieval_Lives" target="_blank"> <img src="medieval.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.parigramme.com/livre-metro-insolite-49.htm" target="_blank">
-<img src="metro.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.parigramme.com/livre-metro-insolite-49.htm" target="_blank"> <img src="metro.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.panmacmillan.com/authors/paulina-rowinska/mapmatics/9781035007042" target="_blank">
-<img src="map.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.panmacmillan.com/authors/paulina-rowinska/mapmatics/9781035007042" target="_blank"> <img src="map.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
 ::: g-col-4
-<a href="https://www.penguin.co.uk/books/56314/thinking-fast-and-slow-by-kahneman-daniel/9780141033570" target="_blank">
-<img src="think.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/>
-</a>
+<a href="https://www.penguin.co.uk/books/56314/thinking-fast-and-slow-by-kahneman-daniel/9780141033570" target="_blank"> <img src="think.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/56314/thinking-fast-and-slow-by-kahneman-daniel/9780141033570" target="_blank"> <img src="think.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
+:::::::::::::::::::::::::::::::::::

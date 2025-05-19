@@ -1,0 +1,134 @@
+---
+title: ""
+format: html
+---
+
+::::::::::::::::::::::::::::::::::: grid
+::: g-col-4
+<a href="https://www.babelio.com/livres/Fabcaro-Zai-zai-zai-zai/719553" target="_blank"> <img src="zai.jpg" alt="Image 1" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.simonandschuster.com/books/Solutions-and-Other-Problems/Allie-Brosh/9781982156954" target="_blank"> <img src="solutions.jpg" alt="Image 2" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/313766/the-power-of-strangers-by-keohane-joe/9780241986424" target="_blank"> <img src="power.jpg" alt="Image 3" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/311787/behave-by-robert-m-sapolsky/" target="_blank"> <img src="behave.jpg" alt="Image 4" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/616914/an-immense-world-by-ed-yong/" target="_blank"> <img src="world.jpg" alt="Image 5" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/239783/the-body-by-bill-bryson/" target="_blank"> <img src="body.jpg" alt="Image 6" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://yalebooks.yale.edu/book/9780300170825/a-little-book-of-language/" target="_blank"> <img src="language.jpg" alt="Image 7" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://allary-editions.fr/products/riad-sattouf-arabe-du-futur-1" target="_blank"> <img src="arabe.jpg" alt="Image 8" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/183573/the-sense-of-style-by-pinker-steven/9780241957714" target="_blank"> <img src="pinker.jpg" alt="Image 9" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/95441/into-thin-air-by-jon-krakauer-new-afterword-by-the-author/" target="_blank"> <img src="thinair.jpg" alt="Image 10" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/158400/the-god-of-small-things-by-arundhati-roy/" target="_blank"> <img src="god.jpg" alt="Image 11" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.nytimes.com/2022/10/30/books/review/claire-keegan-foster.html" target="_blank"> <img src="foster.jpg" alt="Image 12" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.babelio.com/livres/Hosseini-Les-cerfs-volants-de-Kaboul/6303" target="_blank"> <img src="kaboul.jpg" alt="Image 13" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.loulubie.fr/livres/racines" target="_blank"> <img src="lou.jpg" alt="Image 14" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://atlantic-books.co.uk/book/the-crossing/" target="_blank"> <img src="crossing.jpg" alt="Image 15" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.elizabethstrout.com/books/oh-william" target="_blank"> <img src="william.jpg" alt="Image 16" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.editions-delcourt.fr/bd/series/serie-un-ocean-d-amour/album-un-ocean-d-amour" target="_blank"> <img src="ocean.jpg" alt="Image 17" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.babelio.com/livres/Zeniter-Lart-de-perdre/956484" target="_blank"> <img src="art.jpg" alt="Image 18" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/455478/how-migration-really-works-by-haas-hein-de/9780241998779" target="_blank"> <img src="migration.jpg" alt="Image 19" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.alexbellos.com/language" target="_blank"> <img src="puzzle.jpg" alt="Image 20" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.babelio.com/livres/Yoshimura-Le-Grand-Tremblement-de-terre-du-Kanto/172850" target="_blank"> <img src="kanto.jpg" alt="Image 21" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/577190/this-naked-mind-by-annie-grace/" target="_blank"> <img src="mind.jpg" alt="Image 22" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://maypeter.com/the-blackhouse/" target="_blank"> <img src="may.jpg" alt="Image 23" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://thewhimsybookworm.blogspot.com/2022/06/book-review-beauty-of-all-my-days.html" target="_blank"> <img src="bond.jpg" alt="Image 24" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.theguardian.com/books/2020/jul/31/shuggie-bain-by-douglas-stuart-review-a-rare-and-gritty-debut" target="_blank"> <img src="shuggie.jpg" alt="Image 25" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/598169/on-all-fronts-by-clarissa-ward/" target="_blank"> <img src="front.jpg" alt="Image 26" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/455575/what-they-dont-teach-you-about-money-by-barrett-claer/9781529146332" target="_blank"> <img src="money.jpg" alt="Image 27" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.britannica.com/topic/To-Kill-a-Mockingbird" target="_blank"> <img src="kill.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://en.wikipedia.org/wiki/Terry_Jones%27_Medieval_Lives" target="_blank"> <img src="medieval.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.parigramme.com/livre-metro-insolite-49.htm" target="_blank"> <img src="metro.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.panmacmillan.com/authors/paulina-rowinska/mapmatics/9781035007042" target="_blank"> <img src="map.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/56314/thinking-fast-and-slow-by-kahneman-daniel/9780141033570" target="_blank"> <img src="think.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+:::
+:::::::::::::::::::::::::::::::::::

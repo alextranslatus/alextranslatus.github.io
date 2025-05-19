@@ -292,3 +292,5 @@ I love book recommendations, let me know what your favourites are.
 <a href="https://www.penguin.co.uk/books/56314/thinking-fast-and-slow-by-kahneman-daniel/9780141033570" target="_blank"> <img src="think.jpg" alt="Image 28" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
 :::::::::::::::::::::::::::::::::::
+
+?

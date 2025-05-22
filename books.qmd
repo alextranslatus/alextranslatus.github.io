@@ -3,7 +3,7 @@ title: ""
 format: html
 ---
 
-::::::::::::::::::::::::::::::::::: grid
+::::::::::::::::::::::::::::::::::::::::::: grid
 ::: g-col-4
 <a href="https://www.babelio.com/livres/Fabcaro-Zai-zai-zai-zai/719553" target="_blank"> <img src="zai.jpg" alt="Image 1" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
@@ -163,7 +163,4 @@ format: html
 ::: g-col-4
 <a href="https://www.penguin.co.uk/books/305809/middle-england-by-coe-jonathan/9780241983683" target="_blank"> <img src="middleengland.jpg" alt="Image 40" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
-
-:::::::::::::::::::::::::::::::::::
-
-
+:::::::::::::::::::::::::::::::::::::::::::

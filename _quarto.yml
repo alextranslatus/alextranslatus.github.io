@@ -8,7 +8,7 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Books
+      - text: More books
         href: books.qmd
 
         

@@ -165,6 +165,6 @@ format: html
 :::
 
 ::: g-col-4
-<a href="https://www.penguinrandomhouse.com/books/73535/the-righteous-mind-by-jonathan-haidt/" target="_blank"> <img src="righteous.jpg" alt="Image 41" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
+<a href="https://www.penguinrandomhouse.com/books/73535/the-righteous-mind-by-jonathan-haidt/" target="_blank"> <img src="righteous.jpg" alt="Image 41" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a> 
 :::
 :::::::::::::::::::::::::::::::::::::::::::

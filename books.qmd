@@ -175,4 +175,12 @@ format: html
 ::: g-col-4
 <a href="https://theconversation.com/les-chevaux-nous-reconnaissent-ils-214497" target="_blank"> <img src="cheval.jpg" alt="Image 43" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a> 
 :::
+
+::: g-col-4
+<a href="https://www.babelio.com/livres/Pincon-Paris--Quinze-promenades-sociologiques/158645" target="_blank"> <img src="paris.png" alt="Image 44" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a> 
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/454635/this-is-why-you-dream-by-jandial-rahul/9781804949078" target="_blank"> <img src="dream.jpg" alt="Image 45" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a> 
+:::
 :::::::::::::::::::::::::::::::::::::::::::

@@ -24,7 +24,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am currently a student of the [European Doctoral School of Demography](https://eaps.nl/edsd/About-EDSD){target="_blank"} (EDSD), hosted by [Institut National d'Études Démographiques](https://www.ined.fr/en/){target="_blank"} (INED). I'm sponsored by the [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/en/about_us_6113/the_max_planck_institute_for_demographic_research_6653/){target="_blank"} (MPIDR). Starting in September/October 2025, I'll be funded by INED to complete my PhD thesis at the [Centre for Research on social InequalitieS](https://www.sciencespo.fr/cris/en/presentation/){target="_blank"} (CRIS) at Sciences Po.
+I am currently a PhD candidate at the [Centre for Research on social InequalitieS](https://www.sciencespo.fr/cris/en/presentation/){target="_blank"} (CRIS) at Sciences Po. I'm financed by [Institut National d'Études Démographiques](https://www.ined.fr/en/){target="_blank"} (Ined) until August 2028.
 
 I mainly focus on inequalities in childhood. I've participated in cross-country projects investigating possible factors that influence disparities in child development, including, but not limited to: parental socioeconomic status, tracking at school, family structure, parenting styles, gender.
 

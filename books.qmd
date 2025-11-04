@@ -77,10 +77,6 @@ format: html
 :::
 
 ::: g-col-4
-<a href="https://www.penguin.co.uk/books/455478/how-migration-really-works-by-haas-hein-de/9780241998779" target="_blank"> <img src="migration.jpg" alt="Image 19" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
-:::
-
-::: g-col-4
 <a href="https://www.alexbellos.com/language" target="_blank"> <img src="puzzle.jpg" alt="Image 20" style="height: 250px; object-fit: contain; width: 100%; margin: 0;"/> </a>
 :::
 

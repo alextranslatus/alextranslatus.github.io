@@ -33,6 +33,10 @@ Most often, I adopt a longitudinal approach with survey data. Datasets I'm most 
 
 ## Publications
 
+#### 2025
+
+Sheridan, A., Silva, L., & Bonomi Bezzo, F. (2025). *The joint effect of deprivation during the COVID-19 pandemic in England: How did contextual and individual experiences affect health-related behaviours?* In A. Kober-Smith & A. Beauvallet (Eds.), *Permacrisis and the policy continuum in the UK* (in press). Routledge.
+
 #### 2024
 
 Dräger, J., Washbrook, E., Schneider, T., Akabayashi, H., Keizer, R., Solaz, A., Waldfogel, J., de la Rie, S., Kameyama, Y., Kwon, S. J., Nozaki, K., Perinetti Casoni, V., Sano, S., Sheridan A. & Shikishima, C. (2024). “Cross-national differences in socioeconomic achievement inequality in early primary school: The role of parental education and income in six countries." *AERA Open*. <https://doi.org/10.1177/23328584241299794>
@@ -69,7 +73,7 @@ Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., 
 
 ## Book recommendations
 
-::::::::::::::::::::::::::::::::::::::::::: grid
+:::::::: grid
 ::: g-col-4
 <a href="https://www.ucpress.edu/books/unequal-childhoods/paper" target="_blank"> ![](unequal.avif){width="100%"} </a>
 :::
@@ -89,4 +93,4 @@ Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., 
 ::: g-col-4
 <a href="https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school?srsltid=AfmBOorRkaokZ50r2cFdKd9hHXmxChtkz66MErS3S6raYoFH1L33tDHC" target="_blank"> ![](hiddenc.jpg){width="100%"} </a>
 :::
-:::::::::::::::::::::::::::::::::::::::::::
+::::::::

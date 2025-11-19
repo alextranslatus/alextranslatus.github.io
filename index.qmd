@@ -87,6 +87,10 @@ Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., 
 :::
 
 ::: g-col-4
+<a href="https://www.lcdpu.fr/books/CAD0C896-8C22-48C9-941F-10E1C3156BB6" target="_blank"> ![](logement.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
 <a href="https://schimelwritingscience.wordpress.com/about/" target="_blank"> ![](writingscience.jpg){width="100%"} </a>
 :::
 
@@ -94,3 +98,8 @@ Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., 
 <a href="https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school?srsltid=AfmBOorRkaokZ50r2cFdKd9hHXmxChtkz66MErS3S6raYoFH1L33tDHC" target="_blank"> ![](hiddenc.jpg){width="100%"} </a>
 :::
 ::::::::
+
+
+## More book recommendations
+
+Find more book recommendations outside of research [here!](https://alextranslatus.github.io/books.html){target="_blank"}

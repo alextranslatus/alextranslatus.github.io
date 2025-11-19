@@ -102,4 +102,180 @@ Dräger, J., Schneider, T., Olczyk, M., Solaz, A., Sheridan, A., Washbrook, E., 
 
 ## More book recommendations
 
-Find more book recommendations outside of research [here!](https://alextranslatus.github.io/books.html){target="_blank"}
+:::::::: grid
+::: g-col-4
+<a href="https://www.babelio.com/livres/Fabcaro-Zai-zai-zai-zai/719553" target="_blank"> ![](zai.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.simonandschuster.com/books/Solutions-and-Other-Problems/Allie-Brosh/9781982156954" target="_blank"> ![](solutions.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/313766/the-power-of-strangers-by-keohane-joe/9780241986424" target="_blank"> ![](power.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/311787/behave-by-robert-m-sapolsky/" target="_blank"> ![](behave.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/616914/an-immense-world-by-ed-yong/" target="_blank"> ![](world.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/239783/the-body-by-bill-bryson/" target="_blank"> ![](body.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://yalebooks.yale.edu/book/9780300170825/a-little-book-of-language/" target="_blank"> ![](language.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://allary-editions.fr/products/riad-sattouf-arabe-du-futur-1" target="_blank"> ![](arabe.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/183573/the-sense-of-style-by-pinker-steven/9780241957714" target="_blank"> ![](pinker.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/95441/into-thin-air-by-jon-krakauer-new-afterword-by-the-author/" target="_blank"> ![](thinair.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/158400/the-god-of-small-things-by-arundhati-roy/" target="_blank"> ![](god.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.nytimes.com/2022/10/30/books/review/claire-keegan-foster.html" target="_blank"> ![](foster.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.babelio.com/livres/Hosseini-Les-cerfs-volants-de-Kaboul/6303" target="_blank"> ![](kaboul.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.loulubie.fr/livres/racines" target="_blank"> ![](lou.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://atlantic-books.co.uk/book/the-crossing/" target="_blank"> ![](crossing.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.elizabethstrout.com/books/oh-william" target="_blank"> ![](william.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.editions-delcourt.fr/bd/series/serie-un-ocean-d-amour/album-un-ocean-d-amour" target="_blank"> ![](ocean.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.babelio.com/livres/Zeniter-Lart-de-perdre/956484" target="_blank"> ![](art.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.alexbellos.com/language" target="_blank"> ![](puzzle.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.babelio.com/livres/Yoshimura-Le-Grand-Tremblement-de-terre-du-Kanto/172850" target="_blank"> ![](kanto.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/577190/this-naked-mind-by-annie-grace/" target="_blank"> ![](mind.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://maypeter.com/the-blackhouse/" target="_blank"> ![](may.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://thewhimsybookworm.blogspot.com/2022/06/book-review-beauty-of-all-my-days.html" target="_blank"> ![](bond.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.theguardian.com/books/2020/jul/31/shuggie-bain-by-douglas-stuart-review-a-rare-and-gritty-debut" target="_blank"> ![](shuggie.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/598169/on-all-fronts-by-clarissa-ward/" target="_blank"> ![](front.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/455575/what-they-dont-teach-you-about-money-by-barrett-claer/9781529146332" target="_blank"> ![](money.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.britannica.com/topic/To-Kill-a-Mockingbird" target="_blank"> ![](kill.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://en.wikipedia.org/wiki/Terry_Jones%27_Medieval_Lives" target="_blank"> ![](medieval.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.parigramme.com/livre-metro-insolite-49.htm" target="_blank"> ![](metro.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.panmacmillan.com/authors/paulina-rowinska/mapmatics/9781035007042" target="_blank"> ![](map.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/56314/thinking-fast-and-slow-by-kahneman-daniel/9780141033570" target="_blank"> ![](think.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://cloudappreciationsociety.org/shop/the-cloudspotters-guide/" target="_blank"> ![](clouds.png){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.npr.org/2023/06/10/1180103464/book-review-isabel-allende-novel-the-wind-knows-my-name" target="_blank"> ![](wind.webp){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://press.princeton.edu/books/hardcover/9780691259994/the-little-book-of-weather" target="_blank"> ![](littlebook.png){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/419465/skyfaring-by-mark-vanhoenacker/9780099589853" target="_blank"> ![](skyfaring.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://michellenijhuis.com/beloved-beasts" target="_blank"> ![](beloved.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://bethanybrookshire.com/pests/" target="_blank"> ![](pests.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://adamgrant.net/book/think-again/" target="_blank"> ![](thinkagain.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/305809/middle-england-by-coe-jonathan/9780241983683" target="_blank"> ![](middleengland.jpg){width="100%"} </a>
+:::
+
+::: g-col-4
+<a href="https://www.penguinrandomhouse.com/books/73535/the-righteous-mind-by-jonathan-haidt/" target="_blank"> ![](righteous.jpg){width="100%"} </a> 
+:::
+
+::: g-col-4
+<a href="https://www.babelio.com/livres/Carrere-LAdversaire/234935" target="_blank"> ![](adversaire.jpg){width="100%"} </a> 
+:::
+
+::: g-col-4
+<a href="https://theconversation.com/les-chevaux-nous-reconnaissent-ils-214497" target="_blank"> ![](cheval.jpg){width="100%"} </a> 
+:::
+
+::: g-col-4
+<a href="https://www.babelio.com/livres/Pincon-Paris--Quinze-promenades-sociologiques/158645" target="_blank"> ![](paris.png){width="100%"} </a> 
+:::
+
+::: g-col-4
+<a href="https://www.penguin.co.uk/books/454635/this-is-why-you-dream-by-jandial-rahul/9781804949078" target="_blank"> ![](dream.jpg){width="100%"} </a> 
+:::
+::::::::
